@@ -22,3 +22,53 @@ select,
 textarea {
     max-width: 280px;
 }
+
+body {
+    background-color: #dddcaa;
+    font-family: 'Raleway', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+    color: #48a8a3;
+}
+    a:hover {
+        color: #14e5da;
+    }
+h2 {
+    font-family: 'Dosis', 'Raleway', 'Trebuchet MS', Arial, sans-serif;
+    color: #ef2d6b;
+}
+h1 {
+    color: #3f2604;
+    font-family: 'Dosis', 'Raleway', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+.btn.btn-info {
+    color: #3b5104;
+    background-color: #b3f902;
+    border: 1px solid #b3f902;
+}
+#bookshelf {
+    border: 10px solid #bab7b4;
+    max-width: 100%;
+    display: flex;
+}
+
+.navbar-inverse {
+    background-color: #c9e2e5;
+    border: 0px solid darksalmon;
+}
+.container {
+    color: orange!important;
+}
+button.navbar-toggle {
+    background-color: #c9e2e5;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #563315!important;
+}
+.jumbotron {
+    background-color: aliceblue;
+}
